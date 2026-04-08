@@ -1,5 +1,7 @@
 # tacit-mining
 
+![tacit-mining](banner.jpg)
+
 **Let AI truly understand you.** A Claude Code skill that extracts your tacit knowledge through structured dialogue.
 
 > "We know more than we can tell." — Michael Polanyi, 1966
